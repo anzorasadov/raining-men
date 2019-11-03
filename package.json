@@ -1,0 +1,27 @@
+{
+  "name": "raining_men",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anzorasadov/raining-men.git"
+  },
+  "author": "anzor asadov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anzorasadov/raining-men/issues"
+  },
+  "homepage": "https://github.com/anzorasadov/raining-men#readme",
+  "dependencies": {
+    "gsap": "^2.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babelify": "^10.0.0",
+    "watchify": "^3.11.1"
+  }
+}
